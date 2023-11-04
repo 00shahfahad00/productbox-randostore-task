@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "King Size Bed",
+    "price": "300",
+    "img": "http://localhost:4000/img/bed.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Comfy Slippers",
+    "price": "15",
+    "img": "http://localhost:4000/img/slippers.jpg"
+  },
+  {
+    "id": 3,
+    "name": "CD Rack",
+    "price": "100",
+    "img": "http://localhost:4000/img/rack.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Glow Stick Bundle",
+    "price": "10",
+    "img": "http://localhost:4000/img/sticks.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Cookie Jar",
+    "price": "25",
+    "img": "http://localhost:4000/img/cookies.jpg"
+  }
+]
