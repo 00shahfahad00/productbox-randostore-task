@@ -47,7 +47,10 @@ const Cards = () => {
         <div className="cards-container">
           <img src={entry.img} />
           <h3 className="dec">{entry.name}</h3>
-          <p className="price">{entry.price}</p>
+          <div className="name-price">
+            <p>Price</p>
+            <p className="price">{entry.price}</p>
+          </div>
         </div>
       ))}
     </div>

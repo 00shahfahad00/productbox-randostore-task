@@ -123,17 +123,36 @@ nav .nav-right .cart{
     margin-top: 3rem;
 }
 
-.cards-title h3, p{
-    margin-top: 10px;
-}
+
 
 .cards-title img{
+    height: 14rem;
     width: 10rem;
     border-radius: 10px;
     margin-top: 5rem;
     transition: all 1.1s;
     filter: brightness(50%);
 }
+
+
+.cards-container h3{
+    margin-top: 10px;
+}
+
+
+.name-price{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.name-price :nth-child(1){
+    font-weight: bold;
+}
+.name-price :nth-child(2){
+    font-weight: bold;
+}
+
 
 .cards-title img:hover{
     transform: scale(1.1);
